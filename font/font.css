@@ -1,0 +1,24 @@
+@font-face {font-family: "Alex Brush Regular";
+  src: url("57b15f8f411808ab712afbf7329418e4.eot"); /* IE9*/
+  src: url("57b15f8f411808ab712afbf7329418e4.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("57b15f8f411808ab712afbf7329418e4.woff2") format("woff2"), /* chrome、firefox */
+  url("57b15f8f411808ab712afbf7329418e4.woff") format("woff"), /* chrome、firefox */
+  url("57b15f8f411808ab712afbf7329418e4.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("57b15f8f411808ab712afbf7329418e4.svg#Alex Brush Regular") format("svg"); /* iOS 4.1- */
+}
+@font-face {font-family: "Commercial Script BT";
+  src: url("e965995ca080e47db1c4aff1a08fa11e.eot"); /* IE9*/
+  src: url("e965995ca080e47db1c4aff1a08fa11e.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("e965995ca080e47db1c4aff1a08fa11e.woff2") format("woff2"), /* chrome、firefox */
+  url("e965995ca080e47db1c4aff1a08fa11e.woff") format("woff"), /* chrome、firefox */
+  url("e965995ca080e47db1c4aff1a08fa11e.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("e965995ca080e47db1c4aff1a08fa11e.svg#Commercial Script BT") format("svg"); /* iOS 4.1- */
+}
+@font-face {font-family: "Swenson";
+  src: url("swenson/7951742653659a1fe7eedc193e5a7469.eot"); /* IE9*/
+  src: url("swenson/7951742653659a1fe7eedc193e5a7469.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("swenson/7951742653659a1fe7eedc193e5a7469.woff2") format("woff2"), /* chrome、firefox */
+  url("swenson/7951742653659a1fe7eedc193e5a7469.woff") format("woff"), /* chrome、firefox */
+  url("swenson/7951742653659a1fe7eedc193e5a7469.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("swenson/7951742653659a1fe7eedc193e5a7469.svg#Swenson") format("svg"); /* iOS 4.1- */
+}

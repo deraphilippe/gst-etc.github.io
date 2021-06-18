@@ -1,0 +1,104 @@
+h2
+{
+	position: relative;
+	right: 40px;
+}
+body
+{
+	font-family: "Calibri";
+}
+input
+{
+	font-size: 19px;
+}
+#log
+{
+	position: absolute;
+	border: 1px yellow solid;
+	background-color: yellow;
+	width: 499px;
+	font-size: 20px;
+	right: 1px;	
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	top: 265px;
+}
+#creer
+{
+	cursor: pointer;
+	border-radius: 5px;
+	border: 1px yellow solid;
+	font-size: 19px;
+	padding: 5px;
+	color: black;
+	background-color: yellow;
+}
+#creer:hover
+{
+	border: 1px black solid;
+	background-color: black;
+	color: white;
+}
+#imglogin
+{
+	width: 30px;
+	height: 40px;
+}
+.error
+{
+	color: red;
+}
+#titre
+{
+	position: relative;
+	left: 400px;
+	width: 498px;
+}
+#login,#user
+{
+	position: absolute;
+	width: 500px;
+	height: 270px;
+	background-color: rgba(192,191,192,0.5);
+	transform: translate(80%,80%);
+	z-index: 1;	
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+#user
+{
+	padding: 10px;
+	border: 1px white solid;
+	background-color: orange;
+	transform: translate(70%,0%);
+	border-radius: 10px;
+	width: 520px;
+	height: 500px;
+}
+#input
+{
+	height: 25px;
+	border: 1px white solid;
+	border-radius: 5px;
+	margin-left: 5px;	
+}
+#form
+{
+	position: absolute;
+	left: 150px;
+	top: 5px;
+}
+#armoire
+{
+	position: relative;
+	top: 5px;
+	border-radius: 50px;
+	left: 140px;
+	width: 200px;
+	height: 190px;
+	float: left;
+}
+p
+{
+	font-size: 19px;
+}
